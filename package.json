@@ -1,5 +1,6 @@
 {
   "name": "fportin.github.io-react",
+  "homepage": "https://github.com/fportin/fportin.github.io.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
