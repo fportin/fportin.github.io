@@ -1,0 +1,2 @@
+(this["webpackJsonpfportin.github.io-react"]=this["webpackJsonpfportin.github.io-react"]||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var r=n(1),c=n.n(r),i=n(3),o=n.n(i),s=(n(8),n(0));var p=function(){return Object(s.jsx)("h1",{children:"Hello from App"})};o.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(p,{})}),document.getElementById("root"))},8:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.6a1a2878.chunk.js.map
