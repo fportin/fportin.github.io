@@ -23,6 +23,10 @@
 }
 
 .home-page-navlink:hover {
+    text-decoration: 2px underline;
+}
+
+.home-page-navlink:active {
     color: gray;
 }
 
