@@ -14,29 +14,29 @@ const GreetingPage = () => {
         const site = document.querySelector('.greeting-site')
         setTimeout(() => {
             welcome?.classList.add('show')
-        }, 500)
+        }, 1000)
         setTimeout(() => {
             toMy?.classList.add('show')
-        }, 1000)
+        }, 1500)
         setTimeout(() => {
             portfolio?.classList.add('show')
             site?.classList.add('show')
-        }, 1500)
+        }, 2000)
         setTimeout(() => {
             welcome?.classList.add('fade')
             toMy?.classList.add('fade')
             portfolio?.classList.add('fade')
             site?.classList.add('fade')
-        }, 2500)
+        }, 3000)
         setTimeout(() => {
             rightSide?.classList.add('shrink-up')
-        }, 3250)
+        }, 3750)
         setTimeout(() => {
             rightSide?.classList.add('stretch-left')
-        }, 3750)
+        }, 4250)
         const timeout = setTimeout(() => {
             history.push('/home');
-        }, 4250)
+        }, 4750)
         return () => clearTimeout(timeout);
     }, [history])
 
