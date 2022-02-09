@@ -305,3 +305,54 @@
         opacity: 1;
     }
 }
+
+@media (max-width: 950px) {
+    .home-page-navbar {
+        font-size: 2.5vw;
+    }
+
+    .home-page-body {
+        flex-direction: column;
+        overflow: auto;
+    }
+
+    .home-page-body-divider {
+        display: none;
+    }
+
+    .home-page-body-left__container,
+    .home-page-body-right__container {
+        width: 100%;
+        height: auto;
+        overflow-x: visible;
+    }
+
+    .home-page-body-left,
+    .home-page-body-right {
+        position: relative;
+    }
+
+    .extended-left {
+        left: 10%;
+    }
+
+    .extended-right {
+        right: -10%;
+    }
+
+    .my-picture {
+        height: 150px;
+        width: 150px;
+    }
+
+    .about-me-hello {
+        font-size: 10vw;
+    }
+
+    .project-picture-1,
+    .project-picture-2 {
+        height: 45vw;
+        background-size: contain;
+        border: none;
+    }
+};

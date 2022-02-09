@@ -163,3 +163,12 @@
         transform: scaleY(1);
     }
 }
+
+@media (max-width: 950px) {
+    .greeting-welcome,
+    .greeting-portfolio,
+    .greeting-to-my,
+    .greeting-site {
+        font-size: 7.5vw;
+    }
+};
