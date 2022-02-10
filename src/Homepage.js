@@ -222,18 +222,21 @@ const HomePage = () => {
         const divider = document.querySelector('.home-page-body-divider')
         const leftSection = document.querySelector('.home-page-body-left')
         const rightSection = document.querySelector('.home-page-body-right')
-
+        const bodyContainer = document.querySelector('.home-page-body');
+                
         if (target !== page) {
             divider?.classList.add('stay')
-            // setTimeout(() => {
-            // }, 500)
             setTimeout(() => {
                 leftSection?.classList.remove('extended-left')
             }, 500)
             setTimeout(() => {
                 rightSection?.classList.remove('extended-right')
             }, 1000)
+            // setTimeout(() => {
+                
+            // }, 1500)
             setTimeout(() => {
+                bodyContainer.scrollTo(0, 0);
                 setPage(target)
                 setSubtractor(1000)
             }, 1500)
