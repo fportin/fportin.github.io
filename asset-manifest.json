@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61d28ee2.chunk.css",
+    "main.js": "/static/js/main.e95c963d.chunk.js",
+    "main.js.map": "/static/js/main.e95c963d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5529a1cb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5529a1cb.js.map",
+    "static/js/2.de535e95.chunk.js": "/static/js/2.de535e95.chunk.js",
+    "static/js/2.de535e95.chunk.js.map": "/static/js/2.de535e95.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.61d28ee2.chunk.css.map": "/static/css/main.61d28ee2.chunk.css.map",
+    "static/js/2.de535e95.chunk.js.LICENSE.txt": "/static/js/2.de535e95.chunk.js.LICENSE.txt",
+    "static/media/animedium-home.262d9920.png": "/static/media/animedium-home.262d9920.png",
+    "static/media/animedium-splash.3bb0374f.png": "/static/media/animedium-splash.3bb0374f.png",
+    "static/media/aws.eee35e3f.png": "/static/media/aws.eee35e3f.png",
+    "static/media/catflix-browse.1b72e7a5.png": "/static/media/catflix-browse.1b72e7a5.png",
+    "static/media/catflix-profiles.290f2fba.png": "/static/media/catflix-profiles.290f2fba.png",
+    "static/media/flask.0d5d6d7c.png": "/static/media/flask.0d5d6d7c.png",
+    "static/media/funfinder-home.63b587cf.png": "/static/media/funfinder-home.63b587cf.png",
+    "static/media/funfinder-spot.ab62d76d.png": "/static/media/funfinder-spot.ab62d76d.png",
+    "static/media/inkscape.926c0db8.png": "/static/media/inkscape.926c0db8.png",
+    "static/media/modern-being-category.6aa8933e.png": "/static/media/modern-being-category.6aa8933e.png",
+    "static/media/modern-being-home.be3add52.png": "/static/media/modern-being-home.be3add52.png",
+    "static/media/postgresql.7f584b5e.png": "/static/media/postgresql.7f584b5e.png",
+    "static/media/profile-picture.ad2bc97b.jpg": "/static/media/profile-picture.ad2bc97b.jpg",
+    "static/media/react.4f1eb121.png": "/static/media/react.4f1eb121.png",
+    "static/media/redux.8442924f.png": "/static/media/redux.8442924f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5529a1cb.js",
+    "static/js/2.de535e95.chunk.js",
+    "static/css/main.61d28ee2.chunk.css",
+    "static/js/main.e95c963d.chunk.js"
+  ]
+}
